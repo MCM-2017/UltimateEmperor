@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0 - wyspagracza.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/1 - wyspaognista.unity
+    guid: ecea70c2d74e28540bfa8f00a610cb86
+  - enabled: 1
+    path: Assets/Scenes/2 - wyspalodowa.unity
+    guid: 8075f7d8e8f9d7140aa34b0cdc8bfe34
+  - enabled: 1
+    path: Assets/Scenes/3 - wyspagraczaPO.unity
+    guid: 5c911b41e777e1c449bb7ae8ce0516b1
+  m_configObjects: {}
